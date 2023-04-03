@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang= "pt-br"> 
+    <head>      
+        <meta charset="UFT-8">
+        <title>Prova Prática 03-04 </title>  
+        <style>
+
+            h1{ 
+            color: rgb(13, 47, 108);
+            text-align: center; 
+            font-size: 40px; 
+            border-bottom: 4px solid rgb(25, 216, 249);
+            font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+         }
+
+         img{
+            width: 430px;
+            height:390px;
+            border: 4px solid rgb(23, 45, 88)     
+         }  
+
+         h2{
+            color:rgb(22, 75, 117);
+            font-size: 30px; 
+            text-align: center;
+            border-bottom: 4px solid rgb(119, 255, 210);
+            font-family:'Arial Narrow', Arial, sans-serif;
+         }
+
+         ol{
+            font:20px; color:rgb(17, 114, 153);
+         }
+
+         body{
+            background-image: linear-gradient(to bottom, rgb(101, 150, 255), rgb(106, 208, 255), rgb(186, 181, 253));
+         }
+
+         li{ font-size:20px; 
+         }
+
+         </style>                  
+
+<body>
+    <h1> Quem foi Alan Turing?</h1>
+
+    <img src="AlanTuring.jpg">
+
+    <p>Alan Turing foi um <strong>matemático e cientista da computação</strong> responsável formalmente pela criação do<em>conceito de algoritmo,</em>que revolucionou a informática e abriu espaço para PCs, notebooks, supercomputadores e celulares que conhecemos hoje, também<u>foi um dos primeiros cientistas a trabalhar com inteligência artificial.</u></p>
+
+    <p>Turing também teve um papel decisivo na <em>Segunda Guerra Mundia</em>.Em uma mansão vitoriana na cidade de Bletchley, um grupo de gênios contratados pelo serviço de inteligência britânico foi reunido durante para <strong>desvendar o código militar alemão gerado pela Enigma,</strong> máquina de criptografica supostamente <u>impenetrável.</u></p>
+
+    <p>Na década de 1950, entretanto, Turing foi preso por "indecência" após declarar as autoridades que era homossexual, orientação considerada ilegal do Reino Unido. Em 1954, ele foi encontrado morto após morder uma maçã envenenada com caneto.</p>
+    </h1>
+
+    <h2>A Máquina</h2>
+
+    <img src="Turing_bombe.jpg"> 
+
+    <p>Sua máquina formou a <em>estrutura básica</em> para fundamentar a <strong><u>ciência da computação moderna e a computabilidade.</u></strong></p>
+
+    <p>A <strong>Máquina de Turing</strong> é um dispositivo teórico conhecido como <em>máquina universal</em>, muitos anos antes de existirem os modernos computadores digitais. A máquina é capaz de <u>ler, escrever e apagar simbolos binários em uma fita de comprimento limitado e dividida por quadrados de igual tamanho</u>. Três anos depois, essas máquinas interceptavam e descodofocava, cerca de 84mil mensagens por mês, cerca de duas por minuto.</p> </text-align:justify>
+
+
+     <h2>Curiosidades de Turing</h2>
+     <ol>
+        <li>Responsável formalmente pela criaação do conceito algoritmo</li>
+        <li>Considerado o pai da computação;</li>
+        <li>Decifrou os códigos dos alemães na  Segunda Guerra Mundial;</li>
+        <li>Foi tratado com hormônios femininos e sofreu castração química;</li>
+        <li>Foi envenenado com cianureto.</li>
+     </ol>
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+
+    

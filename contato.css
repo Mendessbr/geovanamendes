@@ -3,8 +3,8 @@ header{
     padding: 13px;
 }
 
-#logo{
-    border-radius: 30px;
+#logo1{
+    border-radius: 70px;
 }
 
 img{
@@ -44,6 +44,7 @@ form label, form p{
     display: block;
     font-size: 20px;
     margin: 0px 0px 10px;
+    
 } 
 
 .input-padrao{
@@ -57,22 +58,22 @@ form label, form p{
     margin: 20px 0px;
 }
 
-.enviar{
+.Enviar{
     width: 40%;
     padding: 15px 0;
-    background: #8364a0;
+    background: rgb(113, 132, 213);
     color: white;
     font-weight: bold;
     font-size: 18px;
     border: none;
-    border-radius: 5px;
+    border-radius: 05px;
     transition: 1s all;
     cursor: pointer;
     margin: auto;
 }
 
-.enviar:hover{
-    background: rgb(148, 135, 226);
+.Enviar:hover{
+    background: #7369e6;
     transform: scale(1.2);
 }
 
@@ -88,3 +89,6 @@ footer{
     margin: 10px 0px 0px;
 }
 
+#logo2{
+    border-radius: 70px;
+}

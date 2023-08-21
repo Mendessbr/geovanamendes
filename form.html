@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="form.css">
+</head>
+<body>
+    <form method = "post" action = "">
+        <pre>
+        Nome
+        <input type = "text" size="80" maxlength="70" placeholder="Digite seu nome" name="nome">
+
+        RG
+        <input type = "number" size="10" placeholder="Digite sem os pontos" required name="nome">
+
+        Email
+        <input type="email" size="80" name="email">
+
+        Telefone
+        <input type="tel" name="telefone">
+
+        Senha
+        <input type="password" name="senha" size="10" maxlength="10">
+
+        Curso
+        <input type="checkbox" name="curso" value="administracao">Administração
+
+        <input type="checkbox" name="curso" value="desenvolvimento">Desenvolvimento Sistemas
+
+        <input type="checkbox" name="curso" value="eletronica">Eletrônica
+
+
+        Periodo
+        <input type="radio" name="matutino">Matutino
+
+        <input type="radio" name="vespertino">Vespertino
+
+        <input type="radio" name="noturno">Noturno
+
+
+        Ciadade<select name="cidade">
+            <option value="Cascavel">Cascavel</option>
+
+            <option value="Corbelia">Corbelia</option>
+
+            <option value="Penha">Penha</option>
+
+        </select>
+        <input type="reset" value="Apagar os dados">
+
+        <input type="submit" value="Gravar dados">
+
+        <img src="logoceep.jpeg" alt="Logo Ceep">
+
+        <a href="https://www.ceepcascavel.com.br">Site da escola</a>
+    </pre>
+    </form>
+</body>
+</html>

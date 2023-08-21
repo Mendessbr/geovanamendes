@@ -1,0 +1,19 @@
+input{text-align:center;
+text-transform: uppercase;
+background-color: rgba(209, 250, 211, 0.582);
+color:rgb(11, 95, 67);
+font-size: 12px;
+width: 200px;
+height: 20px;
+border-color: rgb(51, 170, 105);
+border-style: dotted;
+text-decoration: underline;
+font-weight: bold;
+}
+
+input[type=date]{
+    color:rgb(38, 133, 58);
+}
+
+select{color:rgb(49, 158, 67);
+}
